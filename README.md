@@ -1,1 +1,7 @@
 # CODETECH-Task2
+Name:KAVADE VAMSHI MOHAN
+company:CODETECH IT SOLUTIONS
+Id:CT08DS4246
+Domain:MACHINE LEARNING
+Duration:july to August 2024
+Mentor:
