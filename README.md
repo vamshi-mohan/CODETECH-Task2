@@ -1,4 +1,10 @@
 # CODETECH-Task2
+- **Name**: KAVADE VAMSHI MOHAN
+- **Company**: CODETECH IT SOLUTIONS
+- **ID**: CT08DS4246
+- **Domain**: MACHINE LEARNING
+- **Duration**: July to August 2024
+- **Mentor**: Muzammil Ahmed
 # IMDB Sentiment Analysis
 
 ## Overview
